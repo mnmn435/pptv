@@ -1,24 +1,8 @@
-2026/07/03 21:11更新,#genre#
+2026/09/22 18:24更新,#genre#
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 央视频道,#genre#
-CCTV-2财经,http://36.40.236.156:9999/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-4中文国际,http://36.40.236.156:9999/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5体育,http://36.40.236.156:9999/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-6电影,http://36.40.236.156:9999/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-7国防军事,http://36.40.236.156:9999/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-8电视剧,http://36.40.236.156:9999/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 
 卫视频道,#genre#
-深圳卫视,http://36.40.236.156:9999/tsfile/live/0126_2.m3u8?key=txiptv&playlive=0&authid=0
-江苏卫视,http://36.40.236.156:9999/tsfile/live/0127_2.m3u8?key=txiptv&playlive=0&authid=0
-东南卫视,http://36.40.236.156:9999/tsfile/live/0137_2.m3u8?key=txiptv&playlive=0&authid=0
-内蒙古卫视,http://36.40.236.156:9999/tsfile/live/0109_2.m3u8?key=txiptv&playlive=0&authid=0
-山东卫视,http://36.40.236.156:9999/tsfile/live/0131_2.m3u8?key=txiptv&playlive=0&authid=0
-山西卫视,http://36.40.236.156:9999/tsfile/live/0118_2.m3u8?key=txiptv&playlive=0&authid=0
-陕西卫视,http://36.40.236.156:9999/tsfile/live/0136_2.m3u8?key=txiptv&playlive=0&authid=0
-广东卫视,http://36.40.236.156:9999/tsfile/live/0125_2.m3u8?key=txiptv&playlive=0&authid=0
-河南卫视,http://36.40.236.156:9999/tsfile/live/0139_2.m3u8?key=txiptv&playlive=0&authid=0
-吉林卫视,http://36.40.236.156:9999/tsfile/live/0116_2.m3u8?key=txiptv&playlive=0&authid=0
 浙江卫视,https://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 浙江钱江都市,https://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
 浙江经济生活,https://ali-xwl.cztv.com/live/channel031080Plxw.m3u8
@@ -177,7 +161,5 @@ CCTV-8电视剧,http://36.40.236.156:9999/tsfile/live/0008_1.m3u8?key=txiptv&pla
 河南频道,#genre#
 广西频道,#genre#
 陕西频道,#genre#
-陕西都市青春,http://36.40.236.156:9999/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-陕西银铃,http://36.40.236.156:9999/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
 香港频道,#genre#
 其他频道,#genre#
